@@ -1,70 +1,60 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/829696536306941992/913840428522303518/header.gif" width="100%" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%" alt="Top Banner" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA043&background=00000000&center=true&vCenter=true&width=600&lines=import+DataScientist;>+root@Ashutosh:~$;>+Data+is+the+new+oil..." alt="Typing SVG" />
-</div>
-
-<br/>
-
-```console
-root@ashutosh:~$ whoami
-Ashutosh Singh
-Data Scientist & Analytics Enthusiast
-
-root@ashutosh:~$ cat about_me.txt
-> Data is the new oil, and I love refining it into insights.
-> Currently exploring advanced Python for Data Analytics & ML.
-> I enjoy finding hidden patterns in datasets more than spoilers in movies! ðŸ˜†
-
-root@ashutosh:~$ ls -l skills/
-drwxr-xr-x 2 root root 4096 python_ML_ecosystem
-drwxr-xr-x 2 root root 4096 data_visualization
-drwxr-xr-x 2 root root 4096 predictive_modeling
-
-root@ashutosh:~$ ./show_stack.sh
-Loading tools...
-```
+# <p align="center">Namaste 🙏 I'm Ashutosh Singh</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=2EA043"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=2EA043"/>
+  <img src="https://komarev.com/ghpvc/?username=Ashutosh-018&label=Profile%20Views&color=5e81ac&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ashutosh-018?style=for-the-badge&label=Followers&color=5e81ac&logo=github" alt="Followers" />
 </p>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Ashutosh-018">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-018&show_icons=true&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&bg_color=0d1117" alt="Ashutosh's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Ashutosh-018">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-018&hide_border=true&background=0d1117&ring=2EA043&fire=2EA043&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
-  </a>
-</div>
+<img align="right" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
 
-<br/>
+<h3 align="left">💫 About Me</h3>
+<p align="left">
+  🌱 I am a <b>Data Scientist</b> and Analytics Enthusiast.<br>
+  🔭 I actively build <b>Machine Learning</b> models and analytics pipelines.<br>
+  💬 I acquire skills in <b>Python, SQL, Machine Learning, and Data Visualization</b>.<br>
+  ⚡ Interested in <b>Artificial Intelligence, Deep Learning, and turning data into strategy</b>.<br>
+  😆 Fun fact: <i>I enjoy finding hidden patterns in datasets more than spoilers in movies!</i><br>
+</p>
 
-<div align="center">
-  <h3>ðŸ root@ashutosh:~$ ./run_snake.sh</h3>
+<h3 align="left">🧲 Connect me:</h3>
+<p align="left">
+  <a href="mailto:ashuthakur2610@gmail.com"><img width="40px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/"><img width="40px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/"><img width="40px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/kaggle_new_logo.png" alt="Kaggle" /></a>
+</p>
+
+<br clear="both">
+
+---
+
+<h3 align="center">🚀 Github Status</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-018&show_icons=true&theme=nord&hide_border=true&bg_color=2e3440&text_color=d8dee9&title_color=88c0d0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-018&theme=nord&background=2e3440&border_radius=10&ring=88c0d0&fire=88c0d0&currStreakNum=d8dee9&sideNums=d8dee9&currStreakLabel=d8dee9&sideLabels=d8dee9&dates=d8dee9" width="48%" />
+</p>
+
+<h3 align="center">🛠 Languages & Tools I Have Placed My Hands On</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,git,github,vscode,docker,aws,linux,tensorflow" />
+</p>
+
+---
+
+<h3 align="center">🐍 GitHub Contributions Heatmap</h3>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-018/Ashutosh-018/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutosh-018/Ashutosh-018/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashutosh-018/Ashutosh-018/output/github-snake.svg">
   </picture>
-</div>
+</p>
 
-```console
-root@ashutosh:~$ contact --email
-ashuthakur2610@gmail.com
-
-root@ashutosh:~$ logout
-Connection closed.
-```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
