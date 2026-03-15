@@ -1,4 +1,4 @@
-## ⚡ System Initialization... 
+## âš¡ System Initialization... 
 > `[OK] Modules loaded.`
 > `[OK] Establishing connection to Ashutosh-018...`
 > `[OK] Welcome to my terminal.`
@@ -24,21 +24,21 @@ class Ashutosh(DataScientist):
 
     def get_current_goals(self):
         return [
-            "🚀 Master Data Science & Analytics",
-            "📂 Extract useful insights from messy data",
-            "🎯 Drive solutions using data-driven decisions"
+            "ðŸš€ Master Data Science & Analytics",
+            "ðŸ“‚ Extract useful insights from messy data",
+            "ðŸŽ¯ Drive solutions using data-driven decisions"
         ]
     
     def get_fun_fact(self):
-        return "I enjoy finding hidden patterns in datasets more than spoilers in movies 😆"
+        return "I enjoy finding hidden patterns in datasets more than spoilers in movies ðŸ˜†"
 ```
 
-### 💻 `Terminal: ~/utils/skills`
+### ðŸ’» `Terminal: ~/utils/skills`
 ```console
 root@ashutosh:~$ cat about_me.txt
-- 🌱 Currently exploring Python for Data Science & Analytics
-- 💬 Ask me about Python, Data Analysis, and Visualization
-- 📫 Reach me at ashuthakur2610@gmail.com
+- ðŸŒ± Currently exploring Python for Data Science & Analytics
+- ðŸ’¬ Ask me about Python, Data Analysis, and Visualization
+- ðŸ“« Reach me at ashuthakur2610@gmail.com
 
 root@ashutosh:~$ ./show_skills.sh
 [Loading dependencies...]
@@ -57,7 +57,7 @@ root@ashutosh:~$ ./show_skills.sh
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
 </p>
 
-### 📊 `System.metrics (GitHub Stats)`
+### ðŸ“Š `System.metrics (GitHub Stats)`
 <div align="center">
   <a href="https://github.com/Ashutosh-018">
     <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-018&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Ashutosh's GitHub Stats" />
@@ -68,7 +68,7 @@ root@ashutosh:~$ ./show_skills.sh
   </a>
 </div>
 
-### 🐍 `System.contribution_graph (Eating the bugs)`
+### ðŸ `System.contribution_graph (Eating the bugs)`
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-018/Ashutosh-018/output/github-snake-dark.svg">
